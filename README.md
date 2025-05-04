@@ -1,6 +1,4 @@
-- 👋 Hi, This is Jaswanth Dhulipudi
-- 👀 I’m interested in web develpment.
-- 🌱 I’m currently learning javascript
+
 
 
 <!---
